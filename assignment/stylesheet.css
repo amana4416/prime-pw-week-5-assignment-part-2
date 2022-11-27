@@ -1,6 +1,17 @@
-header {
+.navbar {
 background-color: #011f4b;
 color: #b3cde0;
 text-align: center;
 }
 
+.main-content {
+    background-color: lightgrey;
+    padding: 1em;
+}
+
+body {
+    background-image: url(/assignment/record.png);
+    background-repeat: repeat;
+    background-position: center;
+    margin: 0%;
+}
